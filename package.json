@@ -1,0 +1,25 @@
+{
+  "name": "testing-orm-sequelize",
+  "version": "1.0.0",
+  "description": "Testing how sequilize orm works with postgress and Node.js and next deploy the app on heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josemsb92/testing-orm-sequelize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josemsb92/testing-orm-sequelize/issues"
+  },
+  "homepage": "https://github.com/josemsb92/testing-orm-sequelize#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "expres": "^0.0.5",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
